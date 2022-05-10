@@ -1,4 +1,3 @@
-# nlw-return-impulse
 ## NLW Return Impulse
 
 <div>
